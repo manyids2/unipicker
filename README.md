@@ -1,4 +1,6 @@
-# unipicker
+# unipicker - fork
+
+## Want to add options for history, most used, shortcuts
 
 A CLI utility for searching unicode characeters by description and optionally
 copying them to clipboard.
